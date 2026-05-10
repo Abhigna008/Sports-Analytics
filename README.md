@@ -1,6 +1,6 @@
 # 🏏 Sports Analytics: Virat Kohli Career Dashboard
 
-![Dashboard Preview](image_fac30e.jpg)
+![Dashboard Preview](https://github.com/Abhigna008/Sports-Analytics/blob/main/Dashboard_Screenshots/dashboard.png)
 
 ## 📌 Project Overview
 This project is an end-to-end **Sports Analytics** application designed to track and visualize the career statistics of Virat Kohli across all major formats: Test, ODI, and T20I. The project demonstrates a full data pipeline, starting from automated web scraping with bot-bypass techniques to professional data visualization.
